@@ -40,7 +40,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:apple-keyboard-command$$
   - Z
   - X
   - C
@@ -55,7 +55,7 @@ layers:
   - {t: '''', s: '"'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-caps$$
   - $$mdi:backspace-reverse-outline$$
   - layer1
   - $$mdi:keyboard-space$$
